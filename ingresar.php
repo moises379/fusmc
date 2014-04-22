@@ -1,7 +1,7 @@
 
 <?php
 require_once 'php/conexion.php';
-
+//comentario de prueba 2 moises
 ?> 
 
 <!DOCTYPE html>
